@@ -38,7 +38,7 @@
     "content": "385905fc-6b64-a2f2-ccb9-6509b7a36d4d",
     "website": "9-520-a-networks-for-learning-regression-and-classification-spring-2001"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Written Assignments"
