@@ -3,8 +3,6 @@ content_type: page
 description: The readings listed in this section are arranged by topic and provide
   the foundation of this course. The instructor has annotated many of the readings.
   Click on the links to view abstracts for the journal articles, where available.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
